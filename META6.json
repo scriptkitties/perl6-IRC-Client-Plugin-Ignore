@@ -9,7 +9,8 @@
   "name": "IRC::Client::Plugin::Ignore",
   "perl": "6.c",
   "provides": {
-    "IRC::Client::Plugin::Ignore": "lib/IRC/Client/Plugin/Ignore.pm6"
+    "IRC::Client::Plugin::Ignore": "lib/IRC/Client/Plugin/Ignore.pm6",
+    "IRC::Client::Plugin::Ignore::TargetList": "lib/IRC/Client/Plugin/Ignore/TargetList.pm6"
   },
   "resources": [
     
